@@ -1,5 +1,5 @@
 # BCmap
-R script generating geographical map for BC interior and northern washington
+R script generating geographical map for British Columbia interior (Canada) and Northern Washington State (USA).
 
 Geographic data were accessed under the open government license - British Columbia:
 https://catalogue.data.gov.bc.ca/dataset/freshwater-atlas-watersheds 
